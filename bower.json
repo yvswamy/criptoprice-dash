@@ -1,0 +1,20 @@
+{
+  "name": "Cryptoprise-Dash",
+  "authors": [
+    "yvswamy <32513076+yvswamy@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#2.0.0"
+  }
+}
